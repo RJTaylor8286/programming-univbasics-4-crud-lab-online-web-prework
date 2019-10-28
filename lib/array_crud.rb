@@ -2,7 +2,8 @@ def create_an_empty_array
   []
 end
 
-favorite_video_games = ["God of War", "Zelda", "Megaman", "NBA2K"]
+def favorite_video_games = ["God of War", "Zelda", "Megaman", "NBA2K"]
+  p favorite_video_games
   
 end
 
