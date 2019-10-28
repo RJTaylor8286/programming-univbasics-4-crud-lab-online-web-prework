@@ -6,7 +6,11 @@ def favorite_video_games = ["God of War", "Zelda", "Megaman", "NBA2K"]
   p favorite_video_games
 end
 
-def add_element_to_end_of_array(array, element)
+favorite_video_games = ["God of War", "Zelda", "Megaman", "NBA2K"]
+
+favorite_video_games << "WWE2K"
+
+p favorite_video_games
   
 end
 
