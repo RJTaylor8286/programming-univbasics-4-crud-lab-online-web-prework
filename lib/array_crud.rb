@@ -2,8 +2,8 @@ def create_an_empty_array
   []
 end
 
-def create_an_array
-  []
+def favorite_video_games
+  ["God of War", "Zelda", "Megaman", "NBA2K"]
 end
 
 def add_element_to_end_of_array(array, element)
